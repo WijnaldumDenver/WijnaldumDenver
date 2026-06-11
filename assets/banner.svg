@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#bc8cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <circle cx="1050" cy="80" r="120" fill="#58a6ff" opacity="0.06"/>
+  <circle cx="150" cy="250" r="90" fill="#bc8cff" opacity="0.05"/>
+  <text x="60" y="130" fill="url(#accent)" font-family="Segoe UI, system-ui, sans-serif" font-size="52" font-weight="700">Denver Wijnaldum</text>
+  <text x="60" y="175" fill="#8b949e" font-family="Segoe UI, system-ui, sans-serif" font-size="24" font-weight="400">Front-End Web Developer</text>
+  <rect x="60" y="200" width="80" height="3" fill="url(#accent)" rx="1.5"/>
+  <text x="60" y="250" fill="#6e7681" font-family="Segoe UI, system-ui, sans-serif" font-size="16">React · Next.js · TypeScript · Node.js · WordPress</text>
+</svg>

@@ -1,0 +1,11 @@
+{
+  "name": "wijnaldumdenver-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-readme.mjs"
+  },
+  "dependencies": {
+    "yaml": "^2.7.0"
+  }
+}

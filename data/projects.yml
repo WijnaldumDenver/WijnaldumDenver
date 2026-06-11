@@ -1,0 +1,86 @@
+projects:
+  - name: Smartconnexxions
+    company: TAD
+    role: Full-Stack Developer (Internship)
+    type: fullstack
+    period: "Apr 2024 - Jul 2024"
+    description: "Built and optimized dynamic, responsive web applications handling both front-end and back-end tasks. Coordinated with team members on task planning and roadmaps."
+    tech: [React, Node.js, JavaScript, HTML, CSS, Tailwind CSS]
+    url: ""
+    featured: true
+
+  - name: Devinas
+    company: TAD
+    role: Full-Stack Developer (Internship)
+    type: fullstack
+    period: "Apr 2024 - Jul 2024"
+    description: "Developed a full-stack web platform with responsive UI and back-end integration, contributing to project delivery within an agile team environment."
+    tech: [React, Node.js, JavaScript, HTML, CSS]
+    url: ""
+    featured: true
+
+  - name: Amazonewholesale
+    company: Bitsplease
+    role: Front-End Developer
+    type: landing-page
+    period: "Oct 2024 - Present"
+    description: "Designed and developed a responsive landing page for a wholesale distribution brand, focusing on clean UI, performance, and mobile-first layouts."
+    tech: [Next.js, React, Tailwind CSS, JavaScript, HTML]
+    url: ""
+    featured: true
+
+  - name: Amazonefoodservice
+    company: Bitsplease
+    role: Front-End Developer
+    type: landing-page
+    period: "Oct 2024 - Present"
+    description: "Built a modern landing page for a food service brand with emphasis on visual hierarchy, responsive design, and seamless user experience."
+    tech: [Next.js, React, Tailwind CSS, JavaScript, HTML]
+    url: ""
+    featured: true
+
+  - name: Amazonefrozen
+    company: Bitsplease
+    role: Front-End Developer
+    type: landing-page
+    period: "Oct 2024 - Present"
+    description: "Created a polished landing page for a frozen goods brand, delivering pixel-accurate designs and cross-device compatibility."
+    tech: [Next.js, React, Tailwind CSS, JavaScript, HTML]
+    url: ""
+    featured: true
+
+  - name: Eucon
+    company: Bitsplease
+    role: Full-Stack Developer
+    type: fullstack
+    period: "Oct 2024 - Present"
+    description: "Developed a full-stack WordPress solution with custom theming and back-end configuration, collaborating closely with designers to match brand requirements."
+    tech: [WordPress, PHP, JavaScript, HTML, CSS]
+    url: ""
+    featured: true
+
+experience:
+  - company: Bitsplease
+    role: Front-End Web Developer
+    period: "Oct 2024 - Present"
+    description: "Develop front-end interfaces for complex web applications using React, Next.js, Tailwind CSS, WordPress, and Node.js. Ensure responsive, user-friendly designs and contribute to back-end tasks when needed."
+
+  - company: TAD
+    role: Web Development Intern
+    period: "Apr 2024 - Jul 2024"
+    description: "Developed dynamic, responsive web pages across the full stack. Helped organize tasks and roadmaps, coordinating with team members to ensure timely project delivery."
+
+profile:
+  name: Denver Wijnaldum
+  title: Front-End Web Developer
+  tagline: "Experienced Front-End Web Developer specializing in HTML/CSS, JavaScript, TypeScript, React, WordPress, Next.js, Node.js, Tailwind CSS, and Directus."
+  email: denver.wijnaldum.24@gmail.com
+  location: Suriname
+  github: WijnaldumDenver
+  linkedin: ""
+  portfolio: ""
+  education: "NATIN - Natin Diploma (2020 - 2024)"
+  about: |
+    I'm a passionate front-end web developer based in Suriname with a strong foundation in modern web technologies. After completing my diploma at NATIN, I gained hands-on experience during my internship at TAD and currently work as a Front-End Developer at Bitsplease, building responsive interfaces for clients across various industries.
+
+    I thrive in collaborative environments, adapt quickly to new tools and frameworks, and focus on delivering clean, user-friendly experiences that meet both design and business goals.
