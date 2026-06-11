@@ -6,7 +6,7 @@ projects:
     period: "Apr 2024 - Jul 2024"
     description: "Built and optimized dynamic, responsive web applications handling both front-end and back-end tasks. Coordinated with team members on task planning and roadmaps."
     tech: [React, Node.js, JavaScript, HTML, CSS, Tailwind CSS]
-    url: ""
+    url: "https://www.smartconnexxionz.com/"
     featured: true
 
   - name: Devinas
@@ -16,7 +16,7 @@ projects:
     period: "Apr 2024 - Jul 2024"
     description: "Developed a full-stack web platform with responsive UI and back-end integration, contributing to project delivery within an agile team environment."
     tech: [React, Node.js, JavaScript, HTML, CSS]
-    url: ""
+    url: "https://www.nvdevinas.com/"
     featured: true
 
   - name: Amazonewholesale
@@ -26,7 +26,7 @@ projects:
     period: "Oct 2024 - Present"
     description: "Designed and developed a responsive landing page for a wholesale distribution brand, focusing on clean UI, performance, and mobile-first layouts."
     tech: [Next.js, React, Tailwind CSS, JavaScript, HTML]
-    url: ""
+    url: "https://www.amazonewholesale.com/"
     featured: true
 
   - name: Amazonefoodservice
@@ -36,7 +36,7 @@ projects:
     period: "Oct 2024 - Present"
     description: "Built a modern landing page for a food service brand with emphasis on visual hierarchy, responsive design, and seamless user experience."
     tech: [Next.js, React, Tailwind CSS, JavaScript, HTML]
-    url: ""
+    url: "https://www.amazonefoodservice.com/"
     featured: true
 
   - name: Amazonefrozen
@@ -46,7 +46,7 @@ projects:
     period: "Oct 2024 - Present"
     description: "Created a polished landing page for a frozen goods brand, delivering pixel-accurate designs and cross-device compatibility."
     tech: [Next.js, React, Tailwind CSS, JavaScript, HTML]
-    url: ""
+    url: "https://www.amazonefrozen.com/"
     featured: true
 
   - name: Eucon
@@ -56,7 +56,7 @@ projects:
     period: "Oct 2024 - Present"
     description: "Developed a full-stack WordPress solution with custom theming and back-end configuration, collaborating closely with designers to match brand requirements."
     tech: [WordPress, PHP, JavaScript, HTML, CSS]
-    url: ""
+    url: "https://eucon-suriname.com/"
     featured: true
 
 experience:
