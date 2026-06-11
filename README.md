@@ -71,7 +71,7 @@ Built and optimized dynamic, responsive web applications handling both front-end
 
 `React` `Node.js` `JavaScript` `HTML` `CSS` `Tailwind CSS`
 
-*Live URL - add in data/projects.yml*
+[View Live](https://www.smartconnexxionz.com/)
 
 ---
 
@@ -83,7 +83,7 @@ Developed a full-stack web platform with responsive UI and back-end integration,
 
 `React` `Node.js` `JavaScript` `HTML` `CSS`
 
-*Live URL - add in data/projects.yml*
+[View Live](https://www.nvdevinas.com/)
 
 ---
 
@@ -95,7 +95,7 @@ Designed and developed a responsive landing page for a wholesale distribution br
 
 `Next.js` `React` `Tailwind CSS` `JavaScript` `HTML`
 
-*Live URL - add in data/projects.yml*
+[View Live](https://www.amazonewholesale.com/)
 
 ---
 
@@ -107,7 +107,7 @@ Built a modern landing page for a food service brand with emphasis on visual hie
 
 `Next.js` `React` `Tailwind CSS` `JavaScript` `HTML`
 
-*Live URL - add in data/projects.yml*
+[View Live](https://www.amazonefoodservice.com/)
 
 ---
 
@@ -119,7 +119,7 @@ Created a polished landing page for a frozen goods brand, delivering pixel-accur
 
 `Next.js` `React` `Tailwind CSS` `JavaScript` `HTML`
 
-*Live URL - add in data/projects.yml*
+[View Live](https://www.amazonefrozen.com/)
 
 ---
 
@@ -131,7 +131,7 @@ Developed a full-stack WordPress solution with custom theming and back-end confi
 
 `WordPress` `PHP` `JavaScript` `HTML` `CSS`
 
-*Live URL - add in data/projects.yml*
+[View Live](https://eucon-suriname.com/)
 
 ---
 
