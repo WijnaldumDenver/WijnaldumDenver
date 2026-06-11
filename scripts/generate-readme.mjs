@@ -53,19 +53,6 @@ ${badges}`;
     .join("\n\n");
 }
 
-function optionalLinkedIn(profile) {
-  if (!profile.linkedin) {
-    return {
-      badge: "",
-      link: "- **LinkedIn:** *Add your URL in data/projects.yml*",
-    };
-  }
-  return {
-    badge: `[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](${profile.linkedin})`,
-    link: `- **LinkedIn:** [Profile](${profile.linkedin})`,
-  };
-}
-
 function optionalPortfolio(profile) {
   if (!profile.portfolio) {
     return { badge: "", link: "" };
@@ -90,13 +77,10 @@ function main() {
 
   const profile = projectsData.profile;
   const featuredProjects = projectsData.projects.filter((p) => p.featured);
-  const linkedin = optionalLinkedIn(profile);
   const portfolio = optionalPortfolio(profile);
 
   const vars = {
     profile,
-    linkedin_badge: linkedin.badge,
-    linkedin_link: linkedin.link,
     portfolio_badge: portfolio.badge,
     portfolio_link: portfolio.link,
     skills_section: renderSkills(skillsData.categories),

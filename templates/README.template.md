@@ -1,16 +1,20 @@
 <!-- THIS FILE IS AUTO-GENERATED. Edit data/projects.yml, data/skills.yml, or templates/README.template.md, then run: npm run generate -->
 
-<img src="assets/banner.svg" alt="Denver Wijnaldum - Front-End Web Developer" width="100%"/>
-
-# Hi, I'm {{profile.name}}
-
-**{{profile.title}}** | {{profile.location}}
-
-{{profile.tagline}}
+<table>
+  <tr>
+    <td width="220" valign="top">
+      <img src="assets/profile.png" alt="Denver Wijnaldum - Front-End Web Developer" width="200"/>
+    </td>
+    <td valign="top">
+      <h1>Hi, I'm {{profile.name}}</h1>
+      <p><strong>{{profile.title}}</strong> | {{profile.location}}</p>
+      <p>{{profile.tagline}}</p>
+    </td>
+  </tr>
+</table>
 
 [![Email](https://img.shields.io/badge/Email-denver.wijnaldum.24@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:{{profile.email}})
 [![GitHub](https://img.shields.io/badge/GitHub-WijnaldumDenver-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/{{profile.github}})
-{{linkedin_badge}}
 {{portfolio_badge}}
 
 ---
@@ -58,5 +62,4 @@ I'm open to collaborations and front-end / full-stack web development opportunit
 
 - **Email:** [{{profile.email}}](mailto:{{profile.email}})
 - **GitHub:** [@{{profile.github}}](https://github.com/{{profile.github}})
-{{linkedin_link}}
 {{portfolio_link}}

@@ -1,16 +1,20 @@
 <!-- THIS FILE IS AUTO-GENERATED. Edit data/projects.yml, data/skills.yml, or templates/README.template.md, then run: npm run generate -->
 
-<img src="assets/banner.svg" alt="Denver Wijnaldum - Front-End Web Developer" width="100%"/>
-
-# Hi, I'm Denver Wijnaldum
-
-**Front-End Web Developer** | Suriname
-
-Experienced Front-End Web Developer specializing in HTML/CSS, JavaScript, TypeScript, React, WordPress, Next.js, Node.js, Tailwind CSS, and Directus.
+<table>
+  <tr>
+    <td width="220" valign="top">
+      <img src="assets/profile.png" alt="Denver Wijnaldum - Front-End Web Developer" width="200"/>
+    </td>
+    <td valign="top">
+      <h1>Hi, I'm Denver Wijnaldum</h1>
+      <p><strong>Front-End Web Developer</strong> | Suriname</p>
+      <p>Experienced Front-End Web Developer specializing in HTML/CSS, JavaScript, TypeScript, React, WordPress, Next.js, Node.js, Tailwind CSS, and Directus.</p>
+    </td>
+  </tr>
+</table>
 
 [![Email](https://img.shields.io/badge/Email-denver.wijnaldum.24@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:denver.wijnaldum.24@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-WijnaldumDenver-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WijnaldumDenver)
-
 
 
 ---
@@ -162,5 +166,4 @@ I'm open to collaborations and front-end / full-stack web development opportunit
 
 - **Email:** [denver.wijnaldum.24@gmail.com](mailto:denver.wijnaldum.24@gmail.com)
 - **GitHub:** [@WijnaldumDenver](https://github.com/WijnaldumDenver)
-- **LinkedIn:** *Add your URL in data/projects.yml*
 
